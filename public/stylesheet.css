@@ -1,0 +1,32 @@
+html{
+    font-family: 'Manjari', sans-serif;
+    color: #888888;
+    font-size: 1.5rem;
+    background-color: #ffedda;
+    max-height: 100vh;
+    max-width: 100vw;
+}
+img{
+    max-width: 100%;
+    width: 14rem;
+    border-radius: 4rem;
+}
+
+#root{
+    min-height: 100vh;
+    text-align: center;
+}
+h1{
+    color: #ff4c00;
+    font-size: 4rem;
+    text-align: center;
+}
+@media screen and (max-width: 600px) {
+    html{
+        font-size: 1.5rem;
+        max-height: 100vh;
+    }
+    h1{
+        font-size: 3rem;
+    }
+}
