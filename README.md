@@ -2,4 +2,10 @@ This is a project that leverages the Slack API to display the latest message in 
 
 I hope to showcase the newest projects in Hack Club.
 
-It runs on glitch with an express server.
+Technologies Utilizes:
+- HTML
+- CSS
+- JavaScript
+- Glitch Server Side JavaScript
+- Slack API
+- Express.js
