@@ -2,7 +2,7 @@ This is a project that leverages the Slack API to display the latest message in 
 
 I hope to showcase the newest projects in Hack Club.
 
-Technologies Utilizes:
+Technologies Utilized:
 - HTML
 - CSS
 - JavaScript
